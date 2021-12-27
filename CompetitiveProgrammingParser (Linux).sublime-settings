@@ -1,13 +1,6 @@
 {
     "TESTS_FILE_SUFFIX" : "__tests",
     
-    /*
-    change lang_extension as per the language
-    for java, set lang_extension = ".java"
-    for python, set lang_extension = ".py"
-    for C, set lang_extension = ".c"
-    for javascript, set lang_extension = ".js"
-    */
     "lang_extension": ".cpp",
     
     // always use the default directory irrespective of online judge
